@@ -1,6 +1,6 @@
 # Whisper
 ## 目的
-2022/09/22にOpenAIが発表した音声認識モデルWhisper.
+2022/09/22にOpenAIが発表した音声認識モデルWhisper.<br>
 その性能を検証
 
 
