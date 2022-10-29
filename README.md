@@ -9,3 +9,5 @@ https://github.com/karasu1982/Whisper/blob/main/Whisper.ipynb
 
 ## 参考URL
 https://qiita.com/walnut-pro/items/0124a5a0c83c9b4e2669
+
+## 残課題
